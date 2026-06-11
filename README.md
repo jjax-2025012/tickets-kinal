@@ -12,7 +12,7 @@ TecnologíaVersiónNode.js18+TypeScript5+ts-node10+pnpm8+
 
 📁 Estructura del Proyecto
 
-tickets-it-kinal/
+tickets-kinal/
 ├── src/
 │   ├── types.ts           ← Tipos: Prioridad, EstadoIncidente, interfaz Incidente
 │   ├── ticketService.ts   ← Lógica: crear, listar, buscar y actualizar tickets
@@ -58,7 +58,7 @@ Al correr el proyecto se accede directamente al menú principal, sin selección 
 
 El usuario ingresa manualmente:
 
-CampoDescripciónTítuloNombre corto del problemaDescripciónDetalle del incidenteTu nombreNombre de quien reportaPrioridadbaja / media / alta
+CampoDescripciónTítuloNombre corto del problemaDescripciónDetalle del incidenteTu nombreNombre de quien reportaPrioridad baja / media / alta
 
 
 El ID y la fecha de creación se generan automáticamente.
@@ -75,25 +75,25 @@ Muestra todos los tickets registrados con su información completa:
   │ TICKET-001                          │
   │ Título    : PC no enciende          │
   │ Reportado : Maria Lopez             │
-  │ Prioridad : 🔴 alta                 │
-  │ Estado    : 🔧 en progreso          │
+  │ Prioridad : alta                    │
+  │ Estado    : en progreso             │
   │ Fecha     : 11/06/2026              │
   └─────────────────────────────────────┘
 
 Ícono de prioridad:
 
 
-🔴 Alta
-🟡 Media
-🟢 Baja
+ Alta
+ Media
+ Baja
 
 
 Ícono de estado:
 
 
-📋 Abierto
-🔧 En progreso
-✅ Resuelto
+ Abierto
+ En progreso
+ Resuelto
 
 
 
