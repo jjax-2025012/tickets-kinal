@@ -42,10 +42,9 @@ bashpnpm ts-node src/index.ts
 
 Al correr el proyecto se accede directamente al menú principal, sin selección de rol:
 
-╔══════════════════════════════════════════╗
-║    SISTEMA DE TICKETS - LABORATORIO C27  ║
-║                KINAL                     ║
-╚══════════════════════════════════════════╝
+    SISTEMA DE TICKETS - LABORATORIO C27  
+                KINAL                     
+
 
   1. Agregar ticket
   2. Ver tickets
