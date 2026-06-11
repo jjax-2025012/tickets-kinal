@@ -27,7 +27,7 @@ tickets-it-kinal/
 1. Clonar el repositorio
 
 bashgit clone https://github.com/jjax-2025012/tickets-kinal
-cd tickets-it-kinal
+cd tickets-kinal
 
 2. Instalar dependencias
 
