@@ -71,14 +71,14 @@ El estado inicial siempre es abierto.
 
 Muestra todos los tickets registrados con su información completa:
 
-  ┌─────────────────────────────────────┐
-  │ TICKET-001                          │
-  │ Título    : PC no enciende          │
-  │ Reportado : Maria Lopez             │
-  │ Prioridad : alta                    │
-  │ Estado    : en progreso             │
-  │ Fecha     : 11/06/2026              │
-  └─────────────────────────────────────┘
+ 
+   TICKET-001                          
+   Título    : PC no enciende          
+   Reportado : Maria Lopez             
+   Prioridad : alta                    
+   Estado    : en progreso             
+   Fecha     : 11/06/2026              
+  
 
 Ícono de prioridad:
 
